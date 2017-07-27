@@ -1,0 +1,11 @@
+title: Irene Y. Chen
+url: "http://ankitsultana.com"
+baseurl: "/researcher"
+
+markdown: kramdown
+
+tracking_id: UA-72495497-3
+
+sass:
+    style: compressed
+    sass_dir: _sass2
