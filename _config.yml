@@ -8,4 +8,4 @@ tracking_id: UA-72495497-3
 
 sass:
     style: compressed
-    sass_dir: _sass2
+    sass_dir: _sass

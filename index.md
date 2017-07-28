@@ -8,7 +8,7 @@ Hello! I am a first-year Ph.D. student at [MIT CSAIL](https://www.csail.mit.edu/
 
 Prior to MIT, I worked at [Dropbox](www.dropbox.com) as a Machine Learning Engineer and Data Scientist. I graduated from [Harvard](https://www.seas.harvard.edu/) with a joint AB/SM in Applied Math and Computational Engineering. While there, I conducted research on racial and gender discrimination on Airbnb with [Michael Luca](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=602417) and [Ben Edelman](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=417579).
 
-I am co-president of [Graduate Women in Course 6](http://gw6.scripts.mit.edu/).
+I am president of [Graduate Women in Course 6](http://gw6.scripts.mit.edu/).
 
 ## Research Interests
 
