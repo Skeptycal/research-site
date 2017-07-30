@@ -1,8 +1,8 @@
-- name: "Contact"
-  link: "mailto:iychen@mit.edu"
-
 - name: "Github"
   link: "https://github.com/irenetrampoline//"
+
+- name: "Twitter"
+  link: "http://www.twitter.com/irenetrampoline"
 
 - name: "Blog"
   link: "http://www.irenechen.net"

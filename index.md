@@ -4,11 +4,14 @@ layout: default
 
 ## About Me
 
-Hello! I am a first-year Ph.D. student at [MIT CSAIL](https://www.csail.mit.edu/), working with [David Sontag](http://cs.nyu.edu/~dsontag/) in the [Clinical Machine Learning](http://clinicalml.org/) group. 
+<img class="profile-picture" src="irene.jpg">
 
-Prior to MIT, I worked at [Dropbox](www.dropbox.com) as a Machine Learning Engineer and Data Scientist. I graduated from [Harvard](https://www.seas.harvard.edu/) with a joint AB/SM in Applied Math and Computational Engineering. While there, I conducted research on racial and gender discrimination on Airbnb with [Michael Luca](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=602417) and [Ben Edelman](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=417579).
+Hello! I am a first-year Ph.D. student at [MIT CSAIL](https://www.csail.mit.edu/), working with [David Sontag](http://cs.nyu.edu/~dsontag/) in the [Clinical Machine Learning](http://clinicalml.org/) group. I am president of [Graduate Women in Course 6](http://gw6.scripts.mit.edu/).
 
-I am president of [Graduate Women in Course 6](http://gw6.scripts.mit.edu/).
+Prior to MIT, I worked at [Dropbox](www.dropbox.com) as a Machine Learning Engineer and Data Scientist. I graduated from [Harvard](https://www.seas.harvard.edu/) with a joint AB/SM in Applied Math and Computational Engineering where I researched with [Michael Luca](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=602417) and [Ben Edelman](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=417579).
+
+You can email me at iychen [at] mit [dot] edu
+
 
 ## Research Interests
 
@@ -24,7 +27,8 @@ Current research projects include
 
 ## Teaching
 
-> The more that you read, the more things you will know, the more that you learn, the more places you’ll go
+> The more that you read, the more things you will know, <br>
+> the more that you learn, the more places you’ll go
 
 I am passionate about teaching, particularly through expanding access to education. At Harvard, I was awarded the [Derek Bok Center Certificate of Distinction in Teaching](https://bokcenter.harvard.edu/awards) for outstanding teaching evaluations.
 
