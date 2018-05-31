@@ -1,14 +1,21 @@
-# Researcher
+# Irene Chen Research Website
 
-### [Demo Website](http://ankitsultana.com/researcher)
+## Source
 
-A clean, single column, monospace resume template built for jekyll
+Based on [demo website](http://ankitsultana.com/researcher).
 
-### Installation
+## Deployment
 
-Simply fork the repository and edit away.
+Currently website is hosted on [Irene's CSAIL site](http://people.csail.mit.edu/iychen/). 
 
-### Customization
+Once the site has been perfected, build the site
+```jekyll build```
+
+Then, copy the contents of `./_site` into the CSAIL folder according to
+
+```scp /Users/irenechen/Documents/research-site/_site/* iychen@login.csail.mit.edu:/afs/csail.mit.edu/u/i/iychen/public_html/.```
+
+## Customization
 
 * You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
 
@@ -33,3 +40,5 @@ Simply fork the repository and edit away.
 ### License
 
 [GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+
+
